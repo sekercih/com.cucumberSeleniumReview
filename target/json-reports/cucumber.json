@@ -1,0 +1,51 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-11-27T13:18:39.896Z",
+        "line": 2,
+        "name": "TC01_kullanici googleda lorentlabs aramasi yapar",
+        "description": "",
+        "id": "google-arama;tc01-kullanici-googleda-lorentlabs-aramasi-yapar",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "kullanici google sayfasina gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "arama kutusuna lorentlabs yazar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "arama sonuçlari sayfasinin basligini kontrol eder.",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Google arama",
+    "description": "",
+    "id": "google-arama",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/google.feature",
+    "tags": []
+  }
+]

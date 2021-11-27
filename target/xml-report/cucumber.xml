@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="1" tests="1" time="1.137">
+<testcase classname="Google arama" name="TC01_kullanici googleda lorentlabs aramasi yapar" time="0.23">
+<skipped><![CDATA[Given kullanici google sayfasina gider......................................undefined
+And arama kutusuna lorentlabs yazar.........................................undefined
+Then arama sonuçlari sayfasinin basligini kontrol eder......................undefined
+]]></skipped>
+</testcase>
+</testsuite>
